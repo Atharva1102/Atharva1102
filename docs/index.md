@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Atharva Dalvi
 
 You can use the [editor on GitHub](https://github.com/Atharva1102/Atharva1102/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Active Directory
+- Privilege Escalation
 
 ### Markdown
 
@@ -13,10 +15,10 @@ Syntax highlighted code block
 
 # Atharva Dalvi
 ## Header 2
-### Header 3
+###  3
+- Active Directory
+- Privilege Escalation
 
-- Bulleted 1
-- List 2
 
 1. Numbered
 2. List
